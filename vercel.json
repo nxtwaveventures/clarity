@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "nextwave-audit",
+  "name": "clarity-analysis-tool",
   "builds": [
     {
       "src": "package.json",

@@ -1,7 +1,9 @@
 {
-  "name": "nextwave-audit",
-  "version": "0.1.0",
+  "name": "clarity-analysis-tool",
+  "version": "1.0.0",
   "private": true,
+  "description": "Professional website clarity analysis tool with expert insights and lead generation",
+  "keywords": ["website-analysis", "clarity", "conversion-optimization", "lead-generation"],
   "scripts": {
     "dev": "next dev",
     "build": "next build",

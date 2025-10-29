@@ -1,14 +1,18 @@
-# NextWave Audit - Website Clarity Analysis Tool
+# Website Clarity Analysis Tool
 
-A powerful Next.js application that provides instant website clarity analysis with expert-level insights.
+A professional Next.js application that provides instant website clarity analysis with expert-level insights and lead generation capabilities.
 
-## Features
+## 🌐 Live Deployment
+**https://clarity-git-main-anas-projects-9a5f30bc.vercel.app/**
+
+## ✨ Features
 
 - **Instant Analysis**: Get clarity scores in 10 seconds
-- **Expert Dashboard**: Professional analytics with revenue impact calculations
+- **Expert Dashboard**: Professional analytics with revenue impact calculations  
 - **Industry Benchmarking**: Compare against industry standards
 - **Calendly Integration**: Book consultations directly from results
-- **Mobile Responsive**: Works perfectly on all devices
+- **Mobile Responsive**: Optimized for all devices
+- **Lead Generation**: Convert website analysis into business consultations
 
 ## 🎯 Overview
 
